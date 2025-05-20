@@ -1,8 +1,8 @@
 {
-    "OffWork": [
+    "LOADER": [
         {
-            "owm_lib": "OWMx64",
-            "phien_ban": 1.12
+            "folder_name": "floader",
+            "loader_version": 4
         }
     ]
 }
